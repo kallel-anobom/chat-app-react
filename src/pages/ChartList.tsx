@@ -54,4 +54,3 @@ const ChatList: React.FC = () => {
 };
 
 export default ChatList;
-// grid grid-cols-(repeat(auto-fill, minmax(250px, 1fr))) gap-4
